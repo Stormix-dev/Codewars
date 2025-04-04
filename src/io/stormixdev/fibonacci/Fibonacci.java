@@ -1,4 +1,4 @@
-package fibonacci;
+package io.stormixdev.fibonacci;
 
 import java.math.BigInteger;
 
