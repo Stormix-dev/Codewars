@@ -14,7 +14,7 @@ Funzionalità principali:
 - Ottimizzazione per grandi numeri.
 
 ### 2. BigCount
-**Descrizione**: Contare il numero di "1" nei numeri binari di una sequenza. 
+**Descrizione**: Contare il numero di "1" nei numeri binari di una sequenza.
 **Esercizio originale**: [Link all'esercizio su CodeWars](https://www.codewars.com/kata/596d34df24a04ee1e3000a25).
 
 Funzionalità principali:
