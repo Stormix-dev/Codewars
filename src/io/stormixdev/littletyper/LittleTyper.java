@@ -19,6 +19,13 @@ import java.util.*;
  *   map : (A -> B) -> (List -> List)
  *   pure : A -> List
  *   
+ *   Più nel dettaglio, 
+ *   myValue : A
+ *   pure : A -> List
+ *   Con l'espressione pure myValue il sistema capisce che myValue è di tipo A, e che pure 
+ *   prende un A e restituisce un List.
+ *   Quindi pure myValue ha tipo List. 
+ *   
  * Esempio di espressione:
  *   "append (concat (pure myValue) (pure myValue)) myValue" -> "List"
  *   
