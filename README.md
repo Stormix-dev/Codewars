@@ -3,7 +3,6 @@
 ### 1. Fibonacci  
 **Descrizione**: Calcolo della sequenza di Fibonacci fino a un determinato valore.  
 **Esercizio originale**: [Link all'esercizio su CodeWars](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26/).  
-
 Funzionalità principali:  
 - Calcolo Fast doubling iterativo la sequenza di Fibonacci.  
 - Ottimizzazione per grandi numeri.  
@@ -12,7 +11,6 @@ Funzionalità principali:
 ### 2. Hamming  
 **Descrizione**: Generazione e calcolo della sequenza di numeri di Hamming (numeri "ugly").  
 **Esercizio originale**: [Link all'esercizio su CodeWars](https://www.codewars.com/kata/526d84b98f428f14a60008da/).  
-
 Funzionalità principali:  
 - Algoritmo per determinare l'ennesimo numero di Hamming.  
 - Uso di tecniche efficienti per risparmiare memoria e tempo.  
@@ -21,7 +19,6 @@ Funzionalità principali:
 ### 3. CountOnes  
 **Descrizione**: Determinare il numero di bit "1" in una rappresentazione binaria di un numero.  
 **Esercizio originale**: [Link all'esercizio su CodeWars](https://www.codewars.com/kata/596d34df24a04ee1e3000a25).  
-
 Funzionalità principali:  
 - Algoritmo ottimizzato per calcolare i bit "1".  
 - Applicabile a grandi dataset.
@@ -41,7 +38,18 @@ Funzionalità principali:
 Funzionalità principali:  
 - Analisi del contesto e validazione delle dichiarazioni di tipo.
 - Inferenza ricorsiva del tipo per espressioni left-associative.
-- Gestione degli errori come variabili non dichiarate o applicazioni non valide.
+- Gestione degli errori come variabili non dichiarate o applicazioni non valide.  
+
+
+### 6. PrimeStream  
+**Descrizione**: Generazione infinita di numeri primi tramite stream.  
+**Esercizio originale**: [Link all'esercizio su CodeWars](https://www.codewars.com/kata/5519a584a73e70fa570005f5).  
+Funzionalità principali:  
+- Uso di `IntStream` per creare uno stream infinito di numeri primi.
+- Algoritmo ottimizzato per filtrare solo i numeri primi in modo efficiente.
+- Supporta la generazione di milioni di numeri primi in pochi secondi.
+
+
 ---  
 
 ## **Come usare questa repository** 
