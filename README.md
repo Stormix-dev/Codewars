@@ -47,8 +47,16 @@ Funzionalità principali:
 Funzionalità principali:  
 - Uso di `IntStream` per creare uno stream infinito di numeri primi.
 - Algoritmo ottimizzato per filtrare solo i numeri primi in modo efficiente.
-- Supporta la generazione di milioni di numeri primi in pochi secondi.
+- Supporta la generazione di milioni di numeri primi in pochi secondi.  
 
+
+### 7. Spiralizor
+**Descrizione**: Generazione di una matrice quadrata a spirale fatta di 1 e 0.  
+**Esercizio originale**: [Link all'esercizio su Codewars](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)  
+Funzionalità principali:  
+- Costruzione di una spirale di 1 in senso orario, evitando che i giri si tocchino tra loro.
+- Gestione dinamica dei margini per realizzare la forma a spirale con margine interno.
+- Adatto a matrici di qualsiasi dimensione positiva.  
 
 ---  
 
